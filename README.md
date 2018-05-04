@@ -1,0 +1,1 @@
+Link for website: https://10fastfingers.com/typing-test/english
