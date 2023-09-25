@@ -1,0 +1,4 @@
+configparser
+pytesseract
+Pillow
+pyautogui
